@@ -1,5 +1,4 @@
 # MyWebsite
-<<<<<<< HEAD
 
 This repository contains the source code for my personal website, which serves as a portfolio, blog, and a platform for practicing web development concepts.
 
