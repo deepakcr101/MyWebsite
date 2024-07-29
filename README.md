@@ -1,4 +1,5 @@
 # MyWebsite
+<<<<<<< HEAD
 
 This repository contains the source code for my personal website, which serves as a portfolio, blog, and a platform for practicing web development concepts.
 
@@ -35,3 +36,6 @@ You can reach me at [piomega01@gmail.com] or connect with me on [LinkedIn:https:
 
 Thank you for visiting my personal website repository!
 
+=======
+This is my personal website
+>>>>>>> 333e73261375d6cec3bc8c749039df5bb80a9276
