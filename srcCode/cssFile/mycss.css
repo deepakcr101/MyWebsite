@@ -8,6 +8,12 @@
     margin-right: 20px; /* Adjust margin as needed */
 }
 
+nav {
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 nav a {
     text-decoration: none;
     color: black; /* Adjust color as needed */
