@@ -3,30 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
-    <link rel="stylesheet" href="/cssFile/mycss.css">
+    <title>Main-Deepak Kumar</title>
+    <link rel="stylesheet" href="/srcCode/cssFile/mycss.css">
 </head>
 <body>
     <header>
-      <div class="wrapper">  
-         <span>
-             <img src="/images/logo.jpeg" alt="My Logo" width="25">
-         </span>
-         <nav>
-             <a href="#">Home</a>
-             <a href="#">About</a>
-             <a href="#">Projects</a>
-             <a href="#">Blogs</a>
+      <div class="container">
+        <span class="mylogo">
+            <img id="mylogoimg" src="/srcCode/images/logo.jpeg" alt="MyLogo" width="25px">
+        </span>
+
+        <!-- Creating the Nav Bar  -->
+         <nav class="navbar">
+            <div class="trigger">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Projects</a>
+                <a href="#">Blogs</a>
+            </div>
          </nav>
-     </div>
+      </div>
     </header>
-     <!-- Main Content area  -->
+
     <main>
-     <img id="deepak" src="/images/myphoto.jpeg" alt="MyPhoto" width="100">
-     <div id="imgIntro">
-       <h2>Deepak Kumar</h2>
-       
-     </div>
+       <figure>
+        <img src="/srcCode/images/myphoto.jpeg" alt="Deepak Kumar" width="70px">
+        <figcaption>
+            <pre>Deepak Kumar
+Undergraduate B.Tech Student
+Delhi Technological University
+(Formerly DCE) 
+            </pre>
+        </figcaption>
+       </figure>
     </main>
     <footer>
 
